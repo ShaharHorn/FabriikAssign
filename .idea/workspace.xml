@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef34e042-1c19-42af-9aaa-f3e05d065765" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kv2Ff12svDgK1pytEUnoGA3Tvh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose/customer-web-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2724138" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\OneDrive\Desktop\FabriikAssi\farbiikAssignment\docker-compose\customer-web-service" />
+      <recent name="C:\Users\shaha\OneDrive\Desktop\FabriikAssi\farbiikAssignment\docker-compose\customer-score-generator" />
+      <recent name="C:\Users\shaha\OneDrive\Desktop\as\farbiikAssignment\docker-compose\customer-web-service" />
+      <recent name="C:\Users\shaha\OneDrive\Desktop\as\farbiikAssignment\docker-compose\customer-score-generator" />
+      <recent name="C:\Users\shaha\OneDrive\Desktop\as\farbiikAssignment\customer-web-service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\OneDrive\Desktop\as\farbiikAssignment\docker-compose" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CustomerWebServiceApplication">
+    <configuration name="CustomerWebServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CustomerWebServiceApplication" />
+      <module name="customer-web-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="customer-score-generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in customer-web-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-web-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerWebServiceApplication" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in customer-web-service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master1/spark-starter-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master11/spark-starter-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef34e042-1c19-42af-9aaa-f3e05d065765" name="Default Changelist" comment="" />
+      <created>1606566641238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606566641238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="72" key="#Project_Structure" timestamp="1606573637142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1606573637142" />
+    <state x="530" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606567200432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606567200432" />
+    <state x="575" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1606659177851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606659177851" />
+    <state x="192" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606666767803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="192" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1606666767803" />
+    <state width="500" height="438" key="DebuggerActiveHint" timestamp="1606667675461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="500" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606667675461" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1606660670043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606660670043" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1606668876311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606668876311" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1606668876311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606668876311" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1606668876311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606668876311" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1606668876311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606668876311" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1606668876309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606668876309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1606668876309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606668876309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1606668876309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606668876309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1606668876309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606668876309" />
+    <state x="300" y="68" key="Maven.ArtifactSearchDialog" timestamp="1606662526594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1606662526594" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1606669178391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606669178391" />
+    <state x="203" y="109" key="new project wizard" timestamp="1606566814420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606566814420" />
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup" timestamp="1606569838580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606569838580" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-score-generator/src/main/java/ScoresProducer.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-web-service/src/main/java/com/CustomersScoresServiceImpl.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-web-service/src/main/java/com/CustomersScoresServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-web-service/src/main/java/com/CustomersScoresServiceImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-web-service/src/main/java/com/CustomersController.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="customers.get(id).size()" />
+        <watch expression="cunstomersScores.get(id)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
